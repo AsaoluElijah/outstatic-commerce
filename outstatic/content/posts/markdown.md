@@ -1,6 +1,6 @@
 ---
 title: 'Markdown 101'
-status: 'draft'
+status: 'published'
 author:
   name: 'Asaolu Elijah'
   picture: 'https://avatars.githubusercontent.com/u/34748637?v=4'
