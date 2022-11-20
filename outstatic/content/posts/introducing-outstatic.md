@@ -10,5 +10,5 @@ coverImage: '/images/og-image-M1Mz.png'
 publishedAt: '2022-11-20T21:38:38.361Z'
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Impedit, ipsum.
+Outstatic is an open source content management system (CMS).
 
