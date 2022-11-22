@@ -10,5 +10,15 @@ coverImage: '/images/markdown-guide-og-EzNj.jpeg'
 publishedAt: '2022-11-20T21:54:16.928Z'
 ---
 
-Markdown is dope!
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit accusamus doloribus rerum, eaque blanditiis dicta in corrupti veritatis iure necessitatibus repellendus perspiciatis. Ex minus rerum blanditiis magni impedit modi vitae.
+
+> "Blockquotes? Those are dope!" - Asaolu Elijah
+
+```javascript
+console.log('Hello world')
+```
+
+- Item 1
+
+- Item 2
 
